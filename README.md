@@ -29,3 +29,9 @@ You need to submit this(ese) java file(s)
 conditions. e.g. throughput under various packet loss, delays, reordering, packet corruption
 conditions (use the netem tool to emulate different network conditions on your localhost, see
 the Evaluation heading below for netem).
+
+Contributors:
+Ritwik Sharma
+Hitesh Shetty
+Souryaansh Agarwal
+
